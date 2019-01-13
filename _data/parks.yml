@@ -1,0 +1,183 @@
+- name: Acadia
+  poster: acadia.jpg
+  visited: true
+
+- name: American Samoa
+  poster: american-samoa.jpg
+
+- name: Arches
+  poster: arches.jpg
+
+- name: Badlands
+  poster: badlands.jpg
+
+- name: Big Bend
+  poster: big-bend.jpg
+
+- name: Biscayne
+  poster: biscayne.jpg
+  visited: true
+
+- name: Black Canyon of the Gunnison
+  poster: black-canyon-of-the-gunnison.jpg
+
+- name: Bryce Canyon
+  poster: bryce-canyon.jpg
+
+- name: Canyonlands
+  poster: canyonlands.jpg
+
+- name: Capitol Reef
+  poster: capitol-reef.jpg
+
+- name: Carlsbad Caverns
+  poster: carlsbad-caverns.jpg
+
+- name: Channel Islands
+  poster: channel-islands.jpg
+
+- name: Congaree
+  poster: congaree.jpg
+
+- name: Crater Lake
+  poster: crater-lake.jpg
+
+- name: Cuyahoga Valley
+  poster: cuyahoga-valley.jpg
+
+- name: Death Valley
+  poster: death-valley.jpg
+
+- name: Denali
+  poster: denali.jpg
+
+- name: Dry Tortugas
+  poster: dry-tortugas.jpg
+
+- name: Everglades
+  poster: everglades.jpg
+  visited: true
+
+- name: Gates of the Arctic
+  poster: gates-of-the-arctic.jpg
+
+- name: Gateway ARch
+  poster: gateway-arch.jpg
+
+- name: Glacier Bay
+  poster: glacier-bay.jpg
+
+- name: Glacier
+  poster: glacier.jpg
+
+- name: Grand Canyon
+  poster: grand-canyon.jpg
+  visited: true
+
+- name: Grand Teton
+  poster: grand-teton.jpg
+
+- name: Great Basin
+  poster: great-basin.jpg
+
+- name: Great Sand Dunes
+  poster: great-sand-dunes.jpg
+
+- name: Great Smoky Mountains
+  poster: great-smoky-mountains.jpg
+
+- name: Guadalupe Mountains
+  poster: guadalupe-mountains.jpg
+
+- name: Haleakala
+  poster: haleakala.jpg
+
+- name: Hawaii Volcanoes
+  poster: hawaii-volcanoes.jpg
+
+- name: Hot Springs
+  poster: hot-springs.jpg
+
+- name: Isle Royale
+  poster: isle-royale.jpg
+
+- name: Joshua Tree
+  poster: joshua-tree.jpg
+
+- name: Katmai
+  poster: katmai.jpg
+
+- name: Kenai Fjords
+  poster: kenai-fjords.jpg
+
+- name: Kings Canyon
+  poster: kings-canyon.jpg
+
+- name: Kobuk Valley
+  poster: kobuk-valley.jpg
+
+- name: Lake Clark
+  poster: lake-clark.jpg
+
+- name: Lassen Volcanic
+  poster: lassen-volcanic.jpg
+
+- name: Mammoth Cave
+  poster: mammoth-cave.jpg
+
+- name: Mesa Verde
+  poster: mesa-verde.jpg
+
+- name: Mount Rainier
+  poster: mount-rainier.jpg
+
+- name: North Cascades
+  poster: north-cascades.jpg
+
+- name: Olympic
+  poster: olympic.jpg
+
+- name: Petrified Forest
+  poster: petrified-forest.jpg
+
+- name: Pinnacles
+  poster: pinnacles.jpg
+
+- name: Redwood
+  poster: redwood.jpg
+
+- name: Rocky Mountain
+  poster: rocky-mountain.jpg
+
+- name: Saguaro
+  poster: saguaro.jpg
+
+- name: Sequoia
+  poster: sequoia.jpg
+
+- name: Shenandoah
+  poster: shenandoah.jpg
+
+- name: Theodore Roosevelt
+  poster: theodore-roosevelt.jpg
+
+- name: Virgin Islands
+  poster: virgin-islands.jpg
+
+- name: Voyageurs
+  poster: voyageurs.jpg
+
+- name: Wind Cave
+  poster: wind-cave.jpg
+
+- name: Wrangell-St. Elias
+  poster: wrangell-st-elias.jpg
+
+- name: Yellowstone
+  poster: yellowstone.jpg
+
+- name: Yosemite
+  poster: yosemite.jpg
+
+- name: Zion
+  poster: zion.jpg

@@ -1,0 +1,73 @@
+/* https://codepen.io/tomsterritt/pen/sknpB */
+
+.segmented-control-container {
+  margin: 20px 0;
+}
+
+.bg {
+  background: #80c4df;
+  color: #80c4df;
+}
+
+/* Radio group */
+
+.segmented-control {
+  display: flex;
+  flex-flow: row wrap;
+  box-sizing: border-box;
+  font-family: "Helvetica Neue";
+  font-size: 90%;
+  text-align: center;
+
+  width: 50%;
+  margin: auto;
+}
+
+@media only screen and (max-width: 375px) {
+  .segmented-control {
+    width: 80%;
+  }
+}
+
+.segmented-control .segment {
+  display: block;
+  flex: 1;
+  box-sizing: border-box;
+  border: 1px solid #80c4df;
+  border-right: none;
+  color: #80c4df;
+  margin: 0;
+  padding: 0.4em;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.segmented-control .segment.checked {
+  background: #80c4df;
+}
+
+.segmented-control .segment.checked .label {
+  color: #fff;
+}
+
+.segmented-control.inverted .segment {
+  border-color: #fff;
+  color: #fff;
+  background: none;
+}
+
+.segmented-control.inverted .segment.checked {
+  background: #fff;
+  color: inherit;
+}
+
+.segmented-control .segment:first-child {
+  border-radius: 0.4em 0 0 0.4em;
+  border-right: 0;
+}
+
+.segmented-control .segment:last-child {
+  border-radius: 0 0.4em 0.4em 0;
+  border-right: 1px solid;
+}

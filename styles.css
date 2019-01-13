@@ -1,0 +1,105 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  /* margin: -10px 0 20px -10px; */
+}
+
+body {
+  margin: 0;
+  background-color: #1e1e1e;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  padding: env(safe-area-inset-top) env(safe-area-inset-right)
+    env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+
+/* Parks */
+
+.park {
+  margin: 10px;
+  position: relative;
+}
+
+.park img {
+  width: 200px;
+  opacity: 1;
+  transition: 0.5s ease;
+}
+
+@media only screen and (max-width: 375px) {
+  .container {
+    margin: 0;
+  }
+
+  .park {
+    margin: 10px 0;
+    width: 80%;
+  }
+
+  .park img {
+    width: 100%;
+  }
+}
+
+/* Overlay */
+
+.park:hover img {
+  opacity: 0.4;
+}
+
+.park .overlay {
+  transition: 0.1s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.park:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  background-color: #ed9a32;
+  color: white;
+  font-size: 16px;
+  padding: 16px 16px;
+  border-radius: 4px;
+}
+
+/* Visited */
+
+.park.unvisited img {
+  opacity: 0.2;
+}
+
+/* Hidden */
+
+.park.hidden {
+  display: none;
+}
+
+/* Credits */
+
+.credits {
+  color: white;
+  text-align: center;
+  margin: 10px 0 20px 0;
+}
+
+.credits a:link,
+a:visited,
+a:hover,
+a:active {
+  color: #80c4df;
+}
+
+@media only screen and (max-width: 375px) {
+  .credits {
+    margin: 0 0 20px 0;
+  }
+}
