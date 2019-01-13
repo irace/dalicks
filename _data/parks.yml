@@ -7,6 +7,7 @@
 
 - name: Arches
   poster: arches.jpg
+  visited: true
 
 - name: Badlands
   poster: badlands.jpg
@@ -23,15 +24,19 @@
 
 - name: Bryce Canyon
   poster: bryce-canyon.jpg
+  visited: true
 
 - name: Canyonlands
   poster: canyonlands.jpg
+  visited: true
 
 - name: Capitol Reef
   poster: capitol-reef.jpg
+  visited: true
 
 - name: Carlsbad Caverns
   poster: carlsbad-caverns.jpg
+  visited: true
 
 - name: Channel Islands
   poster: channel-islands.jpg
@@ -41,6 +46,7 @@
 
 - name: Crater Lake
   poster: crater-lake.jpg
+  visited: true
 
 - name: Cuyahoga Valley
   poster: cuyahoga-valley.jpg
@@ -50,6 +56,7 @@
 
 - name: Denali
   poster: denali.jpg
+  visited: true
 
 - name: Dry Tortugas
   poster: dry-tortugas.jpg
@@ -63,12 +70,14 @@
 
 - name: Gateway ARch
   poster: gateway-arch.jpg
+  visited: true
 
 - name: Glacier Bay
   poster: glacier-bay.jpg
 
 - name: Glacier
   poster: glacier.jpg
+  visited: true
 
 - name: Grand Canyon
   poster: grand-canyon.jpg
@@ -76,6 +85,7 @@
 
 - name: Grand Teton
   poster: grand-teton.jpg
+  visited: true
 
 - name: Great Basin
   poster: great-basin.jpg
@@ -85,9 +95,11 @@
 
 - name: Great Smoky Mountains
   poster: great-smoky-mountains.jpg
+  visited: true
 
 - name: Guadalupe Mountains
   poster: guadalupe-mountains.jpg
+  visited: true
 
 - name: Haleakala
   poster: haleakala.jpg
@@ -97,6 +109,7 @@
 
 - name: Hot Springs
   poster: hot-springs.jpg
+  visited: true
 
 - name: Isle Royale
   poster: isle-royale.jpg
@@ -112,6 +125,7 @@
 
 - name: Kings Canyon
   poster: kings-canyon.jpg
+  visited: true
 
 - name: Kobuk Valley
   poster: kobuk-valley.jpg
@@ -124,9 +138,11 @@
 
 - name: Mammoth Cave
   poster: mammoth-cave.jpg
+  visited: true
 
 - name: Mesa Verde
   poster: mesa-verde.jpg
+  visited: true
 
 - name: Mount Rainier
   poster: mount-rainier.jpg
@@ -139,6 +155,7 @@
 
 - name: Petrified Forest
   poster: petrified-forest.jpg
+  visited: true
 
 - name: Pinnacles
   poster: pinnacles.jpg
@@ -148,18 +165,21 @@
 
 - name: Rocky Mountain
   poster: rocky-mountain.jpg
+  visited: true
 
 - name: Saguaro
   poster: saguaro.jpg
 
 - name: Sequoia
   poster: sequoia.jpg
+  visited: true
 
 - name: Shenandoah
   poster: shenandoah.jpg
 
 - name: Theodore Roosevelt
   poster: theodore-roosevelt.jpg
+  visited: true
 
 - name: Virgin Islands
   poster: virgin-islands.jpg
@@ -169,15 +189,19 @@
 
 - name: Wind Cave
   poster: wind-cave.jpg
+  visited: true
 
 - name: Wrangell-St. Elias
   poster: wrangell-st-elias.jpg
 
 - name: Yellowstone
   poster: yellowstone.jpg
+  visited: true
 
 - name: Yosemite
   poster: yosemite.jpg
+  visited: true
 
 - name: Zion
   poster: zion.jpg
+  visited: true
