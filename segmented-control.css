@@ -5,8 +5,8 @@
 }
 
 .bg {
-  background: #80c4df;
-  color: #80c4df;
+  background: #eee4cc;
+  color: #eee4cc;
 }
 
 /* Radio group */
@@ -33,9 +33,9 @@
   display: block;
   flex: 1;
   box-sizing: border-box;
-  border: 1px solid #80c4df;
+  border: 1px solid #eee4cc;
   border-right: none;
-  color: #80c4df;
+  color: #eee4cc;
   margin: 0;
   padding: 0.4em;
   cursor: pointer;
@@ -44,11 +44,11 @@
 }
 
 .segmented-control .segment.checked {
-  background: #80c4df;
+  background: #eee4cc;
 }
 
 .segmented-control .segment.checked .label {
-  color: #fff;
+  color: #000;
 }
 
 .segmented-control.inverted .segment {

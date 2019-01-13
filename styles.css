@@ -14,6 +14,14 @@ body {
     env(safe-area-inset-bottom) env(safe-area-inset-left);
 }
 
+h1 {
+  color: #71bb88;
+  /* -webkit-text-stroke: 1px white; */
+  text-align: center;
+  font-size: 48px;
+  font-family: "Patua One", cursive;
+}
+
 /* Parks */
 
 .park {
