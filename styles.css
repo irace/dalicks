@@ -16,7 +16,6 @@ body {
 
 h1 {
   color: #71bb88;
-  /* -webkit-text-stroke: 1px white; */
   text-align: center;
   font-size: 48px;
   font-family: "Patua One", cursive;
@@ -47,6 +46,11 @@ h1 {
 
   .park img {
     width: 100%;
+  }
+
+  h1 {
+    margin: 20px 30px 0 30px;
+    font-size: 36px;
   }
 }
 
