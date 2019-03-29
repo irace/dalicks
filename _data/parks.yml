@@ -272,6 +272,8 @@
 - name: Wrangell-St. Elias
   state: AK
   poster: wrangell-st-elias.jpg
+  visited: true
+  date: June 2007
 
 - name: Yellowstone
   state: WY
