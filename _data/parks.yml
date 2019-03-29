@@ -142,7 +142,6 @@
 - name: Guadalupe Mountains
   state: TX
   poster: guadalupe-mountains.jpg
-  visited: true
 
 - name: Haleakala
   state: HI
