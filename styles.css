@@ -71,11 +71,7 @@ h1 {
   text-align: center;
 }
 
-/* .park:hover .overlay {
-  opacity: 1;
-} */
-
-.park .overlay {
+.park:hover .overlay {
   opacity: 1;
 }
 
