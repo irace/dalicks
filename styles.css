@@ -10,8 +10,7 @@ body {
   margin: 0;
   background-color: #1e1e1e;
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-  padding: env(safe-area-inset-top) env(safe-area-inset-right)
-    env(safe-area-inset-bottom) env(safe-area-inset-left);
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
 }
 
 h1 {
@@ -68,19 +67,38 @@ h1 {
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
+  width: 75%;
   text-align: center;
 }
 
-.park:hover .overlay {
+/* .park:hover .overlay {
+  opacity: 1;
+} */
+
+.park .overlay {
   opacity: 1;
 }
 
-.text {
+.overlay .text {
   background-color: #ed9a32;
   color: white;
   font-size: 16px;
-  padding: 16px 16px;
+  padding: 10px 10px;
   border-radius: 4px;
+}
+
+.overlay .text .park_name {
+  font-size: 20px;
+  font-weight: bolder;
+  margin-bottom: 0;
+}
+
+.overlay .text .state {
+  margin-top: 0;
+}
+
+.overlay .text .visited {
+  font-style: italic;
 }
 
 /* Visited */

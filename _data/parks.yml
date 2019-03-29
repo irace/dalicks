@@ -1,4 +1,5 @@
 - name: Acadia
+  state: AL
   poster: acadia.jpg
   visited: true
 
@@ -6,202 +7,287 @@
   poster: american-samoa.jpg
 
 - name: Arches
+  state: UT
   poster: arches.jpg
   visited: true
+  date: May 2018
 
 - name: Badlands
+  state: SD
   poster: badlands.jpg
 
 - name: Big Bend
+  state: TX
   poster: big-bend.jpg
 
 - name: Biscayne
+  state: FL
   poster: biscayne.jpg
   visited: true
+  date: November 2018
 
 - name: Black Canyon of the Gunnison
+  state: CO
   poster: black-canyon-of-the-gunnison.jpg
 
 - name: Bryce Canyon
+  state: UT
   poster: bryce-canyon.jpg
   visited: true
+  date: May 2018
 
 - name: Canyonlands
+  state: UT
   poster: canyonlands.jpg
   visited: true
+  date: May 2018
 
 - name: Capitol Reef
+  state: UT
   poster: capitol-reef.jpg
   visited: true
+  date: May 2018
 
 - name: Carlsbad Caverns
+  state: NM
   poster: carlsbad-caverns.jpg
   visited: true
+  date: April 2018
 
 - name: Channel Islands
+  state: CA
   poster: channel-islands.jpg
 
 - name: Congaree
+  state: SC
   poster: congaree.jpg
 
 - name: Crater Lake
+  state: OR
   poster: crater-lake.jpg
   visited: true
+  date: August 2014
 
 - name: Cuyahoga Valley
+  state: OH
   poster: cuyahoga-valley.jpg
 
 - name: Death Valley
+  state: CA
   poster: death-valley.jpg
 
 - name: Denali
+  state: AK
   poster: denali.jpg
   visited: true
+  date: June 2007
 
 - name: Dry Tortugas
+  state: FL
   poster: dry-tortugas.jpg
 
 - name: Everglades
+  state: FL
   poster: everglades.jpg
   visited: true
+  date: April 2016
 
 - name: Gates of the Arctic
+  state: AK
   poster: gates-of-the-arctic.jpg
 
 - name: Gateway Arch
+  state: MO
   poster: gateway-arch.jpg
   visited: true
+  date: June 2018
 
 - name: Glacier Bay
+  state: AK
   poster: glacier-bay.jpg
+  visited: true
+  date: June 2007
 
 - name: Glacier
+  state: MT
   poster: glacier.jpg
   visited: true
+  date: May 2017
 
 - name: Grand Canyon
+  state: AZ
   poster: grand-canyon.jpg
   visited: true
+  date: June 2000
 
 - name: Grand Teton
+  state: WY
   poster: grand-teton.jpg
   visited: true
+  date: May 2017
 
 - name: Great Basin
+  state: NV
   poster: great-basin.jpg
 
 - name: Great Sand Dunes
+  state: CO
   poster: great-sand-dunes.jpg
 
 - name: Great Smoky Mountains
+  state: NC
   poster: great-smoky-mountains.jpg
   visited: true
 
 - name: Guadalupe Mountains
+  state: TX
   poster: guadalupe-mountains.jpg
   visited: true
 
 - name: Haleakala
+  state: HI
   poster: haleakala.jpg
 
 - name: Hawaii Volcanoes
+  state: HI
   poster: hawaii-volcanoes.jpg
 
 - name: Hot Springs
+  state: AR
   poster: hot-springs.jpg
   visited: true
+  date: October 1983
 
 - name: Isle Royale
+  state: MI
   poster: isle-royale.jpg
 
 - name: Joshua Tree
+  state: CA
   poster: joshua-tree.jpg
 
 - name: Katmai
+  state: AK
   poster: katmai.jpg
 
 - name: Kenai Fjords
+  state: AK
   poster: kenai-fjords.jpg
+  visited: true
+  date: June 2007
 
 - name: Kings Canyon
+  state: CA
   poster: kings-canyon.jpg
   visited: true
+  date: June 2000
 
 - name: Kobuk Valley
+  state: AK
   poster: kobuk-valley.jpg
 
 - name: Lake Clark
+  state: AK
   poster: lake-clark.jpg
 
 - name: Lassen Volcanic
+  state: CA
   poster: lassen-volcanic.jpg
 
 - name: Mammoth Cave
+  state: KY
   poster: mammoth-cave.jpg
   visited: true
+  date: October 2012
 
 - name: Mesa Verde
+  state: CO
   poster: mesa-verde.jpg
   visited: true
+  date: June 2018
 
 - name: Mount Rainier
+  state: WA
   poster: mount-rainier.jpg
 
 - name: North Cascades
+  state: WA
   poster: north-cascades.jpg
 
 - name: Olympic
+  state: WA
   poster: olympic.jpg
 
 - name: Petrified Forest
+  state: AZ
   poster: petrified-forest.jpg
   visited: true
+  date: May 2018
 
 - name: Pinnacles
+  state: CA
   poster: pinnacles.jpg
 
 - name: Redwood
+  state: CA
   poster: redwood.jpg
 
 - name: Rocky Mountain
+  state: CO
   poster: rocky-mountain.jpg
   visited: true
 
 - name: Saguaro
+  state: AZ
   poster: saguaro.jpg
 
 - name: Sequoia
+  state: CA
   poster: sequoia.jpg
   visited: true
+  date: June 2000
 
 - name: Shenandoah
+  state: VA
   poster: shenandoah.jpg
 
 - name: Theodore Roosevelt
+  state: ND
   poster: theodore-roosevelt.jpg
   visited: true
+  date: June 2017
 
 - name: Virgin Islands
   poster: virgin-islands.jpg
 
 - name: Voyageurs
+  state: MN
   poster: voyageurs.jpg
 
 - name: Wind Cave
+  state: SD
   poster: wind-cave.jpg
   visited: true
+  date: May 2017
 
 - name: Wrangell-St. Elias
+  state: AK
   poster: wrangell-st-elias.jpg
 
 - name: Yellowstone
+  state: WY
   poster: yellowstone.jpg
   visited: true
+  date: May 2017
 
 - name: Yosemite
+  state: CA
   poster: yosemite.jpg
   visited: true
+  date: June 2000
 
 - name: Zion
+  state: UT
   poster: zion.jpg
   visited: true
+  date: May 2018

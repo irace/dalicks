@@ -34,7 +34,13 @@ title: U.S. National Parks
       <div class="park {% if park.visited %}{% else %}unvisited{% endif %}">
         <img src="images/parks/{{ park.poster }}" />
         <div class="overlay">
-          <div class="text">{{ park.name }}</div>
+          <div class="text">
+            <p class="park_name">{{ park.name }}</p>
+            <p class="state">{{ park.state }}</p>
+            {% if park.date %}
+              <p class="visited">Visited:<br>{{ park.date }}</p>
+            {% endif %}
+          </div>
         </div>
       </div>
       {% endfor %}
