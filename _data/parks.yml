@@ -71,6 +71,7 @@
 
 - name: Cuyahoga Valley
   state: OH
+  visited: true
   poster: cuyahoga-valley.jpg
 
 - name: Death Valley
@@ -262,6 +263,7 @@
 
 - name: Voyageurs
   state: MN
+  visited: true
   poster: voyageurs.jpg
 
 - name: Wind Cave
