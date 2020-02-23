@@ -159,6 +159,11 @@
   visited: true
   date: October 1983
 
+- name: Indiana Dunes
+  state: IN
+  poster: indiana-dunes.jpg
+  visited: true
+
 - name: Isle Royale
   state: MI
   poster: isle-royale.jpg
