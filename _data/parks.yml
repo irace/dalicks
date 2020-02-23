@@ -271,6 +271,10 @@
   visited: true
   poster: voyageurs.jpg
 
+- name: White Sands
+  state: NM
+  poster: white-sands.jpg
+
 - name: Wind Cave
   state: SD
   poster: wind-cave.jpg
